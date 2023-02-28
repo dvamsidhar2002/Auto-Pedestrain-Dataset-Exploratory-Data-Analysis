@@ -1,0 +1,756 @@
+,Crash_Year,Crash_Month,Crash_Day,Time_of_Day,Day_of_Week,City_or_Township,Crash: Intersection,Crash: Hit-and-Run,Lighting Conditions,Weather Conditions (2016+),Speed Limit at Crash Site,Worst Injury in Crash,Party Type,Person Age,Person Gender
+6054,2010,January,1,12:00 midnight - 1:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,55,Male
+6055,2010,February,1,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,26,Female
+6056,2010,February,1,7:00 AM - 8:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,36,Female
+6057,2010,February,1,9:00 AM - 10:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,55,Male
+6058,2010,March,1,8:00 AM - 9:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,33,Female
+6059,2010,March,1,9:00 AM - 10:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,34,Female
+6060,2010,March,1,1:00 AM - 2:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,15,Female
+6061,2010,April,1,6:00 PM - 7:00 PM,Thursday,Wayne County: Huron Twp.,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,27,Male
+6062,2010,May,1,Unknown,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,43,Male
+6063,2010,May,1,11:00 AM - 12:00 noon,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6064,2010,June,1,8:00 PM - 9:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,58,Male
+6065,2010,June,1,10:00 PM - 11:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,36,Female
+6066,2010,July,1,1:00 PM - 2:00 PM,Thursday,Wayne County: Garden City,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,66,Male
+6067,2010,July,1,1:00 AM - 2:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6068,2010,September,1,12:00 noon - 1:00 PM,Wednesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,51,Female
+6069,2010,September,1,1:00 PM - 2:00 PM,Wednesday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,46,Male
+6070,2010,September,1,8:00 PM - 9:00 PM,Wednesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,20,Male
+6071,2010,September,1,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6072,2010,October,1,4:00 PM - 5:00 PM,Friday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,58,Male
+6073,2010,October,1,5:00 PM - 6:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,21,Female
+6074,2010,October,1,6:00 AM - 7:00 AM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,56,Male
+6075,2010,October,1,4:00 PM - 5:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6076,2010,November,1,3:00 PM - 4:00 PM,Monday,Wayne County: Hamtramck,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,44,Male
+6077,2010,November,1,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,56,Female
+6078,2010,December,1,3:00 PM - 4:00 PM,Wednesday,Wayne County: Trenton,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,50,No injury (O),Motor vehicle driver,38,Male
+6079,2010,December,1,6:00 PM - 7:00 PM,Wednesday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,34,Male
+6080,2010,December,1,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,50,Suspected serious injury (A),Motor vehicle driver,79,Male
+6081,2010,February,2,8:00 PM - 9:00 PM,Tuesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,21,Male
+6082,2010,February,2,8:00 PM - 9:00 PM,Tuesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,37,Male
+6083,2010,February,2,4:00 PM - 5:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,25,Female
+6084,2010,March,2,7:00 AM - 8:00 AM,Tuesday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,47,Female
+6085,2010,March,2,5:00 AM - 6:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,52,Male
+6086,2010,March,2,1:00 AM - 2:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dusk,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6087,2010,March,2,1:00 AM - 2:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6088,2010,April,2,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,31,Female
+6089,2010,April,2,1:00 PM - 2:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,63,Male
+6090,2010,April,2,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,49,Female
+6091,2010,April,2,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,20,Female
+6092,2010,April,2,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6093,2010,May,2,12:00 midnight - 1:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6094,2010,July,2,4:00 PM - 5:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,37,Female
+6095,2010,July,2,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6096,2010,August,2,2:00 PM - 3:00 PM,Monday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,47,Male
+6097,2010,August,2,1:00 AM - 2:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,35,Male
+6098,2010,August,2,1:00 AM - 2:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6099,2010,October,2,12:00 midnight - 1:00 AM,Saturday,Wayne County: Highland Park,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6100,2010,October,2,9:00 PM - 10:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected minor injury (B),Motor vehicle driver,55,Male
+6101,2010,October,2,11:00 PM - 12:00 midnight,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,60,Suspected serious injury (A),Motor vehicle driver,56,Male
+6102,2010,October,2,9:00 PM - 10:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6103,2010,October,2,9:00 PM - 10:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,18,Male
+6104,2010,October,2,8:00 PM - 9:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,22,Female
+6105,2010,December,2,6:00 PM - 7:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,20,Female
+6106,2010,March,3,3:00 PM - 4:00 PM,Wednesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,34,Male
+6107,2010,March,3,7:00 AM - 8:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,42,Male
+6108,2010,March,3,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,30,Female
+6109,2010,April,3,2:00 PM - 3:00 PM,Saturday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,46,Male
+6110,2010,May,3,2:00 PM - 3:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,64,Male
+6111,2010,May,3,10:00 PM - 11:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,70,Male
+6112,2010,May,3,9:00 PM - 10:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,37,Male
+6113,2010,May,3,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,60,Male
+6114,2010,June,3,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,53,Male
+6115,2010,June,3,2:00 PM - 3:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,54,Male
+6116,2010,June,3,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,50,Male
+6117,2010,June,3,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6118,2010,June,3,9:00 PM - 10:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6119,2010,August,3,8:00 PM - 9:00 PM,Tuesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,68,Male
+6120,2010,August,3,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,27,Female
+6121,2010,August,3,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6122,2010,September,3,2:00 PM - 3:00 PM,Friday,Wayne County: Grosse Pointe Woods,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,5,Suspected minor injury (B),Motor vehicle driver,69,Female
+6123,2010,September,3,3:00 PM - 4:00 PM,Friday,Wayne County: Westland,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,32,Female
+6124,2010,November,3,8:00 AM - 9:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,38,Male
+6125,2010,November,3,11:00 AM - 12:00 noon,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,44,Male
+6126,2010,November,3,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6127,2010,November,3,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6128,2010,December,3,12:00 noon - 1:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,82,Male
+6129,2010,December,3,10:00 AM - 11:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6130,2010,January,4,5:00 PM - 6:00 PM,Monday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,56,Male
+6131,2010,January,4,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,45,Female
+6132,2010,February,4,7:00 AM - 8:00 AM,Thursday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,19,Male
+6133,2010,February,4,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,42,Female
+6134,2010,February,4,2:00 AM - 3:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6135,2010,February,4,6:00 AM - 7:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6136,2010,March,4,2:00 PM - 3:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,35,Female
+6137,2010,March,4,2:00 PM - 3:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6138,2010,March,4,8:00 PM - 9:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,21,Female
+6139,2010,April,4,10:00 PM - 11:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,46,Female
+6140,2010,April,4,10:00 PM - 11:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6141,2010,May,4,3:00 PM - 4:00 PM,Tuesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,46,Male
+6142,2010,May,4,4:00 PM - 5:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,39,Female
+6143,2010,May,4,10:00 PM - 11:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,33,Female
+6144,2010,May,4,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6145,2010,May,4,11:00 PM - 12:00 midnight,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6146,2010,June,4,6:00 PM - 7:00 PM,Friday,Wayne County: Belleville,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,19,Female
+6147,2010,June,4,7:00 AM - 8:00 AM,Friday,Wayne County: Dearborn,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6148,2010,June,4,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,51,Female
+6149,2010,July,4,10:00 PM - 11:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6150,2010,August,4,10:00 PM - 11:00 PM,Wednesday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Fatal injury (K),Motor vehicle driver,43,Male
+6151,2010,August,4,6:00 PM - 7:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,60,Male
+6152,2010,September,4,5:00 PM - 6:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,59,Male
+6153,2010,September,4,2:00 PM - 3:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,57,Female
+6154,2010,October,4,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,59,Male
+6155,2010,October,4,9:00 PM - 10:00 PM,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6156,2010,November,4,6:00 PM - 7:00 PM,Thursday,Wayne County: Plymouth Twp.,Not intersection crash,Hit-and-run,Dusk,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6157,2010,November,4,7:00 AM - 8:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,50,Male
+6158,2010,November,4,5:00 PM - 6:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,58,Female
+6159,2010,November,4,5:00 PM - 6:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,81,Male
+6160,2010,February,5,5:00 PM - 6:00 PM,Friday,Wayne County: Taylor,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,25,Female
+6161,2010,February,5,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,49,Male
+6162,2010,March,5,7:00 PM - 8:00 PM,Friday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,47,Female
+6163,2010,March,5,11:00 AM - 12:00 noon,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6164,2010,March,5,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Male
+6165,2010,April,5,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,54,Male
+6166,2010,May,5,11:00 AM - 12:00 noon,Wednesday,Wayne County: Harper Woods,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,29,Male
+6167,2010,May,5,2:00 PM - 3:00 PM,Wednesday,Wayne County: Dearborn,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,59,Male
+6168,2010,May,5,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6169,2010,June,5,4:00 PM - 5:00 PM,Saturday,Wayne County: Grosse Ile Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,51,Female
+6170,2010,June,5,2:00 AM - 3:00 AM,Saturday,Wayne County: Hamtramck,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6171,2010,July,5,11:00 PM - 12:00 midnight,Monday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,50,Male
+6172,2010,July,5,8:00 PM - 9:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,54,Female
+6173,2010,July,5,7:00 PM - 8:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,18,Male
+6174,2010,July,5,12:00 noon - 1:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6175,2010,September,5,7:00 PM - 8:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,18,Female
+6176,2010,September,5,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,19,Male
+6177,2010,October,5,12:00 noon - 1:00 PM,Tuesday,Wayne County: Hamtramck,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,31,Male
+6178,2010,October,5,3:00 PM - 4:00 PM,Tuesday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,25,Female
+6179,2010,October,5,5:00 PM - 6:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,37,Male
+6180,2010,October,5,4:00 PM - 5:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,49,Female
+6181,2010,November,5,10:00 AM - 11:00 AM,Friday,Wayne County: Hamtramck,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,51,Male
+6182,2010,November,5,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,55,Male
+6183,2010,November,5,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6184,2010,November,5,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,54,Female
+6185,2010,November,5,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,24,Female
+6186,2010,November,5,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6187,2010,November,5,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6188,2010,December,5,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,63,Male
+6189,2010,January,6,7:00 AM - 8:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,41,Male
+6190,2010,February,6,4:00 PM - 5:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,19,Male
+6191,2010,March,6,6:00 PM - 7:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,79,Male
+6192,2010,March,6,8:00 PM - 9:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6193,2010,April,6,9:00 PM - 10:00 PM,Tuesday,Wayne County: Highland Park,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Female
+6194,2010,April,6,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,18,Male
+6195,2010,April,6,10:00 PM - 11:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,67,Male
+6196,2010,May,6,6:00 PM - 7:00 PM,Thursday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,21,Female
+6197,2010,May,6,5:00 PM - 6:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,32,Female
+6198,2010,June,6,4:00 PM - 5:00 PM,Sunday,Wayne County: Taylor,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,80,Male
+6199,2010,June,6,6:00 PM - 7:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,33,Female
+6200,2010,June,6,12:00 noon - 1:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6201,2010,July,6,7:00 PM - 8:00 PM,Tuesday,Wayne County: Wayne,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,46,Male
+6202,2010,July,6,12:00 noon - 1:00 PM,Tuesday,Wayne County: Hamtramck,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,37,Female
+6203,2010,July,6,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,20,Female
+6204,2010,July,6,10:00 AM - 11:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,26,Male
+6205,2010,July,6,10:00 AM - 11:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,47,Female
+6206,2010,July,6,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6207,2010,August,6,12:00 midnight - 1:00 AM,Friday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Fatal injury (K),Motor vehicle driver,29,Female
+6208,2010,August,6,12:00 midnight - 1:00 AM,Friday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Fatal injury (K),Motor vehicle driver,43,Male
+6209,2010,August,6,12:00 midnight - 1:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,23,Male
+6210,2010,August,6,12:00 midnight - 1:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6211,2010,September,6,1:00 PM - 2:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,23,Female
+6212,2010,September,6,2:00 AM - 3:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6213,2010,October,6,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6214,2010,December,6,10:00 AM - 11:00 AM,Monday,Wayne County: Taylor,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,10,Possible injury (C),Motor vehicle driver,38,Female
+6215,2010,December,6,6:00 AM - 7:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,55,Male
+6216,2010,December,6,5:00 PM - 6:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,16,Female
+6217,2010,February,7,4:00 PM - 5:00 PM,Sunday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,20,Male
+6218,2010,February,7,10:00 AM - 11:00 AM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,39,Male
+6219,2010,February,7,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6220,2010,February,7,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6221,2010,March,7,11:00 AM - 12:00 noon,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,81,Female
+6222,2010,March,7,12:00 noon - 1:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6223,2010,April,7,9:00 AM - 10:00 AM,Wednesday,Wayne County: Inkster,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6224,2010,April,7,12:00 midnight - 1:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,44,Female
+6225,2010,May,7,10:00 AM - 11:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Female
+6226,2010,June,7,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Female
+6227,2010,July,7,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,20,Female
+6228,2010,July,7,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,49,Male
+6229,2010,July,7,11:00 PM - 12:00 midnight,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6230,2010,August,7,10:00 AM - 11:00 AM,Saturday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,61,Male
+6231,2010,September,7,8:00 PM - 9:00 PM,Tuesday,Wayne County: Taylor,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,70,Fatal injury (K),Motor vehicle driver,40,Male
+6232,2010,September,7,2:00 PM - 3:00 PM,Tuesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,26,Female
+6233,2010,September,7,6:00 PM - 7:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,55,Male
+6234,2010,November,7,11:00 AM - 12:00 noon,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6235,2010,November,7,6:00 PM - 7:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6236,2010,January,8,9:00 PM - 10:00 PM,Friday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,32,Female
+6237,2010,January,8,9:00 PM - 10:00 PM,Friday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6238,2010,January,8,12:00 noon - 1:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,48,Male
+6239,2010,January,8,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6240,2010,February,8,11:00 PM - 12:00 midnight,Monday,Wayne County: Taylor,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6241,2010,February,8,7:00 PM - 8:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,60,Male
+6242,2010,February,8,7:00 AM - 8:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,10,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6243,2010,March,8,8:00 AM - 9:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,50,Female
+6244,2010,March,8,5:00 PM - 6:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dusk,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6245,2010,April,8,11:00 AM - 12:00 noon,Thursday,Wayne County: Highland Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,32,Male
+6246,2010,April,8,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6247,2010,May,8,9:00 AM - 10:00 AM,Saturday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,22,Male
+6248,2010,May,8,9:00 AM - 10:00 AM,Saturday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,78,Female
+6249,2010,May,8,9:00 PM - 10:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Other / unknown,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6250,2010,June,8,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,40,Male
+6251,2010,June,8,11:00 PM - 12:00 midnight,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6252,2010,July,8,3:00 PM - 4:00 PM,Thursday,Wayne County: Canton Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,27,Female
+6253,2010,July,8,12:00 midnight - 1:00 AM,Thursday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Fatal injury (K),Motor vehicle driver,42,Male
+6254,2010,July,8,12:00 noon - 1:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,52,Female
+6255,2010,July,8,7:00 AM - 8:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,59,Female
+6256,2010,August,8,8:00 PM - 9:00 PM,Sunday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,39,Male
+6257,2010,August,8,4:00 AM - 5:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,20,Possible injury (C),Motor vehicle driver,34,Female
+6258,2010,August,8,9:00 PM - 10:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,29,Female
+6259,2010,August,8,11:00 PM - 12:00 midnight,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6260,2010,September,8,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,80,Female
+6261,2010,October,8,3:00 AM - 4:00 AM,Friday,Wayne County: Wayne,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,33,Male
+6262,2010,October,8,9:00 AM - 10:00 AM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,50,Suspected serious injury (A),Motor vehicle driver,21,Male
+6263,2010,October,8,9:00 AM - 10:00 AM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,65,Female
+6264,2010,October,8,9:00 PM - 10:00 PM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,70,Suspected serious injury (A),Motor vehicle driver,36,Male
+6265,2010,October,8,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,31,Female
+6266,2010,October,8,4:00 PM - 5:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Female
+6267,2010,November,8,6:00 PM - 7:00 PM,Monday,Wayne County: Grosse Pointe Farms,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,78,Male
+6268,2010,November,8,7:00 AM - 8:00 AM,Monday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6269,2010,November,8,6:00 PM - 7:00 PM,Monday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Fatal injury (K),Motor vehicle driver,50,Male
+6270,2010,November,8,12:00 noon - 1:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,63,Male
+6271,2010,November,8,11:00 AM - 12:00 noon,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,65,Male
+6272,2010,November,8,11:00 AM - 12:00 noon,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,65,Female
+6273,2010,November,8,11:00 AM - 12:00 noon,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6274,2010,November,8,5:00 PM - 6:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6275,2010,December,8,7:00 AM - 8:00 AM,Wednesday,Wayne County: Brownstown Twp.,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,48,Male
+6276,2010,January,9,8:00 PM - 9:00 PM,Saturday,Wayne County: Livonia,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,38,Female
+6277,2010,February,9,11:00 AM - 12:00 noon,Tuesday,Wayne County: Ecorse,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,64,Female
+6278,2010,February,9,11:00 AM - 12:00 noon,Tuesday,Wayne County: Ecorse,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6279,2010,February,9,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,54,Female
+6280,2010,February,9,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,40,Female
+6281,2010,February,9,8:00 AM - 9:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,45,Male
+6282,2010,March,9,8:00 AM - 9:00 AM,Tuesday,Wayne County: Wayne,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,31,Male
+6283,2010,March,9,4:00 PM - 5:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Other / unknown,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6284,2010,April,9,11:00 PM - 12:00 midnight,Friday,Wayne County: Redford Twp.,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,16,Male
+6285,2010,April,9,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dusk,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,25,Male
+6286,2010,April,9,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dusk,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,41,Male
+6287,2010,April,9,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dusk,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6288,2010,April,9,4:00 AM - 5:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6289,2010,April,9,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6290,2010,June,9,4:00 PM - 5:00 PM,Wednesday,Wayne County: Grosse Pointe Farms,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,88,Female
+6291,2010,June,9,7:00 AM - 8:00 AM,Wednesday,Wayne County: Dearborn,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6292,2010,June,9,5:00 PM - 6:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,24,Male
+6293,2010,July,9,7:00 PM - 8:00 PM,Friday,Wayne County: Wood Haven,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,67,Male
+6294,2010,July,9,9:00 PM - 10:00 PM,Friday,Wayne County: Romulus,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,52,Male
+6295,2010,September,9,7:00 PM - 8:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6296,2010,October,9,12:00 noon - 1:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,27,Male
+6297,2010,October,9,2:00 PM - 3:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,60,Male
+6298,2010,October,9,4:00 PM - 5:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6299,2010,October,9,12:00 midnight - 1:00 AM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6300,2010,November,9,9:00 PM - 10:00 PM,Tuesday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Fatal injury (K),Motor vehicle driver,53,Male
+6301,2010,November,9,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,24,Male
+6302,2010,November,9,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6303,2010,December,9,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,31,Female
+6304,2010,December,9,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,70,Male
+6305,2010,January,10,9:00 AM - 10:00 AM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,19,Male
+6306,2010,February,10,3:00 PM - 4:00 PM,Wednesday,Wayne County: Ecorse,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,21,Female
+6307,2010,March,10,3:00 PM - 4:00 PM,Wednesday,Wayne County: Wayne,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,43,Male
+6308,2010,April,10,8:00 PM - 9:00 PM,Saturday,Wayne County: Northville Twp.,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,17,Male
+6309,2010,April,10,1:00 PM - 2:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,47,Female
+6310,2010,June,10,7:00 AM - 8:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6311,2010,July,10,12:00 noon - 1:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6312,2010,August,10,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,19,Male
+6313,2010,August,10,2:00 PM - 3:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,20,No injury (O),Motor vehicle driver,52,Male
+6314,2010,August,10,2:00 PM - 3:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,65,Male
+6315,2010,August,10,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,79,Male
+6316,2010,September,10,12:00 noon - 1:00 PM,Friday,Wayne County: River Rouge,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,52,Male
+6317,2010,September,10,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,35,Female
+6318,2010,October,10,1:00 PM - 2:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,54,Male
+6319,2010,October,10,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6320,2010,October,10,7:00 PM - 8:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Other / unknown,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6321,2010,November,10,1:00 PM - 2:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,69,Female
+6322,2010,November,10,6:00 PM - 7:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,91,Male
+6323,2010,December,10,12:00 noon - 1:00 PM,Friday,Wayne County: Wyandotte,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,41,Male
+6324,2010,December,10,5:00 PM - 6:00 PM,Friday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,69,Male
+6325,2010,December,10,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dawn,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,52,Male
+6326,2010,December,10,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dawn,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6327,2010,January,11,6:00 PM - 7:00 PM,Monday,Wayne County: Redford Twp.,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,54,Male
+6328,2010,January,11,3:00 PM - 4:00 PM,Monday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,33,Male
+6329,2010,January,11,4:00 PM - 5:00 PM,Monday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,65,Male
+6330,2010,January,11,2:00 PM - 3:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6331,2010,February,11,1:00 PM - 2:00 PM,Thursday,Wayne County: Lincoln Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,55,Male
+6332,2010,February,11,6:00 PM - 7:00 PM,Thursday,Wayne County: Livonia,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,44,Male
+6333,2010,February,11,6:00 AM - 7:00 AM,Thursday,Wayne County: Livonia,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Male
+6334,2010,March,11,7:00 PM - 8:00 PM,Thursday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,60,Male
+6335,2010,March,11,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,19,Male
+6336,2010,March,11,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,53,Male
+6337,2010,March,11,8:00 AM - 9:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,44,Female
+6338,2010,April,11,3:00 PM - 4:00 PM,Sunday,Wayne County: Northville,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,24,Female
+6339,2010,May,11,11:00 AM - 12:00 noon,Tuesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,27,Female
+6340,2010,June,11,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,34,Female
+6341,2010,June,11,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,44,Male
+6342,2010,June,11,9:00 PM - 10:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,24,Female
+6343,2010,June,11,12:00 noon - 1:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6344,2010,June,11,12:00 noon - 1:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6345,2010,August,11,4:00 PM - 5:00 PM,Wednesday,Wayne County: Plymouth Twp.,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6346,2010,August,11,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6347,2010,September,11,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6348,2010,October,11,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,58,Male
+6349,2010,November,11,6:00 AM - 7:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,45,Female
+6350,2010,November,11,8:00 AM - 9:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,63,Female
+6351,2010,December,11,5:00 PM - 6:00 PM,Saturday,Wayne County: Hamtramck,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,10,Suspected minor injury (B),Motor vehicle driver,19,Male
+6352,2010,December,11,2:00 AM - 3:00 AM,Saturday,Wayne County: Hamtramck,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,22,Female
+6353,2010,December,11,10:00 PM - 11:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,40,Male
+6354,2010,December,11,6:00 PM - 7:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dusk,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6355,2010,January,12,4:00 PM - 5:00 PM,Tuesday,Wayne County: Inkster,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,37,Male
+6356,2010,January,12,3:00 PM - 4:00 PM,Tuesday,Wayne County: Westland,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,26,Male
+6357,2010,January,12,6:00 PM - 7:00 PM,Tuesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,55,Female
+6358,2010,March,12,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,20,Possible injury (C),Motor vehicle driver,23,Male
+6359,2010,March,12,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,20,Possible injury (C),Motor vehicle driver,59,Male
+6360,2010,April,12,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6361,2010,May,12,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,73,Female
+6362,2010,May,12,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,60,Male
+6363,2010,June,12,4:00 PM - 5:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6364,2010,July,12,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6365,2010,October,12,10:00 AM - 11:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6366,2010,October,12,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,84,Female
+6367,2010,October,12,7:00 AM - 8:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dawn,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,35,Female
+6368,2010,November,12,2:00 PM - 3:00 PM,Friday,Wayne County: Melvindale,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,57,Female
+6369,2010,November,12,5:00 PM - 6:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,64,Male
+6370,2010,November,12,3:00 AM - 4:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,15,No injury (O),Motor vehicle driver,27,Male
+6371,2010,November,12,4:00 PM - 5:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,66,Male
+6372,2010,November,12,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6373,2010,December,12,4:00 PM - 5:00 PM,Sunday,Wayne County: Plymouth Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,19,Male
+6374,2010,December,12,4:00 PM - 5:00 PM,Sunday,Wayne County: Plymouth Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6375,2010,December,12,4:00 AM - 5:00 AM,Sunday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,33,Female
+6376,2010,December,12,4:00 AM - 5:00 AM,Sunday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6377,2010,December,12,3:00 AM - 4:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,23,Male
+6378,2010,December,12,4:00 PM - 5:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,53,Male
+6379,2010,December,12,5:00 PM - 6:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,23,Female
+6380,2010,December,12,5:00 PM - 6:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,41,Male
+6381,2010,January,13,3:00 PM - 4:00 PM,Wednesday,Wayne County: Wayne,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,20,Female
+6382,2010,January,13,9:00 AM - 10:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,31,Female
+6383,2010,February,13,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6384,2010,March,13,6:00 AM - 7:00 AM,Saturday,Wayne County: Southgate,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6385,2010,March,13,6:00 PM - 7:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,50,Male
+6386,2010,March,13,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6387,2010,April,13,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,18,Male
+6388,2010,May,13,10:00 AM - 11:00 AM,Thursday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,70,Fatal injury (K),Motor vehicle driver,32,Male
+6389,2010,May,13,11:00 AM - 12:00 noon,Thursday,Wayne County: River Rouge,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Fatal injury (K),Motor vehicle driver,73,Male
+6390,2010,June,13,1:00 AM - 2:00 AM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,36,Male
+6391,2010,July,13,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,40,Male
+6392,2010,July,13,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6393,2010,July,13,4:00 AM - 5:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6394,2010,August,13,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6395,2010,August,13,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6396,2010,September,13,12:00 midnight - 1:00 AM,Monday,Wayne County: Garden City,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6397,2010,September,13,7:00 AM - 8:00 AM,Monday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,93,Male
+6398,2010,September,13,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6399,2010,October,13,5:00 PM - 6:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,56,Female
+6400,2010,October,13,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,40,Male
+6401,2010,October,13,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6402,2010,December,13,9:00 AM - 10:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,62,Male
+6403,2010,December,13,9:00 AM - 10:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6404,2010,December,13,7:00 PM - 8:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6405,2010,January,14,9:00 AM - 10:00 AM,Thursday,Wayne County: Taylor,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6406,2010,January,14,7:00 PM - 8:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,52,Female
+6407,2010,January,14,10:00 AM - 11:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6408,2010,March,14,4:00 PM - 5:00 PM,Sunday,Wayne County: Highland Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,46,Male
+6409,2010,March,14,4:00 PM - 5:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Suspected minor injury (B),Motor vehicle driver,24,Male
+6410,2010,March,14,4:00 PM - 5:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6411,2010,April,14,6:00 PM - 7:00 PM,Wednesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,24,Male
+6412,2010,April,14,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,43,Male
+6413,2010,April,14,8:00 AM - 9:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,44,Female
+6414,2010,April,14,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,66,Male
+6415,2010,April,14,6:00 PM - 7:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6416,2010,April,14,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6417,2010,April,14,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,29,Male
+6418,2010,May,14,6:00 PM - 7:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,52,Female
+6419,2010,July,14,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,33,Female
+6420,2010,August,14,2:00 PM - 3:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6421,2010,August,14,8:00 PM - 9:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6422,2010,September,14,7:00 AM - 8:00 AM,Tuesday,Wayne County: Harper Woods,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6423,2010,September,14,4:00 PM - 5:00 PM,Tuesday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,58,Male
+6424,2010,October,14,7:00 AM - 8:00 AM,Thursday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Dawn,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,47,Female
+6425,2010,October,14,5:00 PM - 6:00 PM,Thursday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,37,Female
+6426,2010,November,14,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,20,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6427,2010,December,14,6:00 AM - 7:00 AM,Tuesday,Wayne County: Plymouth Twp.,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6428,2010,December,14,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,74,Male
+6429,2010,December,14,9:00 AM - 10:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,19,Female
+6430,2010,December,14,9:00 AM - 10:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,30,Female
+6431,2010,December,14,9:00 AM - 10:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,31,Female
+6432,2010,January,15,7:00 AM - 8:00 AM,Friday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,50,Female
+6433,2010,January,15,7:00 AM - 8:00 AM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,50,Female
+6434,2010,January,15,6:00 PM - 7:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,39,Female
+6435,2010,February,15,10:00 PM - 11:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,42,Male
+6436,2010,March,15,4:00 PM - 5:00 PM,Monday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,5,Possible injury (C),Motor vehicle driver,36,Female
+6437,2010,March,15,1:00 PM - 2:00 PM,Monday,Wayne County: Dearborn,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,30,Female
+6438,2010,March,15,12:00 noon - 1:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,DOB invalid,Male
+6439,2010,April,15,11:00 AM - 12:00 noon,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,20,Female
+6440,2010,May,15,6:00 PM - 7:00 PM,Saturday,Wayne County: Taylor,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,49,Male
+6441,2010,June,15,3:00 PM - 4:00 PM,Tuesday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,80,Female
+6442,2010,July,15,5:00 AM - 6:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6443,2010,October,15,1:00 PM - 2:00 PM,Friday,Wayne County: Hamtramck,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,46,Male
+6444,2010,October,15,6:00 AM - 7:00 AM,Friday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,45,Female
+6445,2010,October,15,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,65,Female
+6446,2010,November,15,6:00 PM - 7:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,42,Male
+6447,2010,November,15,5:00 PM - 6:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dawn,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6448,2010,November,15,10:00 PM - 11:00 PM,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6449,2010,December,15,7:00 PM - 8:00 PM,Wednesday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Fatal injury (K),Motor vehicle driver,21,Male
+6450,2010,December,15,6:00 PM - 7:00 PM,Wednesday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,50,Male
+6451,2010,December,15,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Male
+6452,2010,January,16,2:00 PM - 3:00 PM,Saturday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,70,Possible injury (C),Motor vehicle driver,18,Female
+6453,2010,February,16,5:00 PM - 6:00 PM,Tuesday,Wayne County: Canton Twp.,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6454,2010,March,16,3:00 PM - 4:00 PM,Tuesday,Wayne County: River Rouge,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,39,Female
+6455,2010,March,16,4:00 PM - 5:00 PM,Tuesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,31,Male
+6456,2010,March,16,12:00 midnight - 1:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6457,2010,March,16,5:00 PM - 6:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6458,2010,April,16,4:00 PM - 5:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,28,Female
+6459,2010,May,16,6:00 PM - 7:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,23,Female
+6460,2010,May,16,11:00 AM - 12:00 noon,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,18,Male
+6461,2010,June,16,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,54,Male
+6462,2010,June,16,12:00 noon - 1:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,38,Female
+6463,2010,June,16,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,63,Female
+6464,2010,June,16,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,50,Male
+6465,2010,July,16,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,33,Male
+6466,2010,July,16,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6467,2010,August,16,4:00 PM - 5:00 PM,Monday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Fatal injury (K),Motor vehicle driver,23,Female
+6468,2010,August,16,6:00 PM - 7:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,22,Male
+6469,2010,August,16,6:00 PM - 7:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Female
+6470,2010,August,16,11:00 PM - 12:00 midnight,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,28,Female
+6471,2010,August,16,11:00 PM - 12:00 midnight,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6472,2010,October,16,11:00 PM - 12:00 midnight,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,30,Female
+6473,2010,November,16,10:00 PM - 11:00 PM,Tuesday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,50,Possible injury (C),Motor vehicle driver,42,Male
+6474,2010,November,16,11:00 AM - 12:00 noon,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,52,Male
+6475,2010,November,16,5:00 PM - 6:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,47,Male
+6476,2010,November,16,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6477,2010,December,16,11:00 AM - 12:00 noon,Thursday,Wayne County: Garden City,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,24,Female
+6478,2010,December,16,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,52,Male
+6479,2010,January,17,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6480,2010,March,17,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,62,Female
+6481,2010,March,17,9:00 PM - 10:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,50,Male
+6482,2010,March,17,5:00 PM - 6:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,46,Male
+6483,2010,March,17,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6484,2010,April,17,6:00 AM - 7:00 AM,Saturday,Wayne County: Huron Twp.,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,60,Fatal injury (K),Motor vehicle driver,67,Male
+6485,2010,April,17,2:00 PM - 3:00 PM,Saturday,Wayne County: Trenton,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,37,Female
+6486,2010,June,17,1:00 AM - 2:00 AM,Thursday,Wayne County: Romulus,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,50,Suspected serious injury (A),Motor vehicle driver,40,Male
+6487,2010,June,17,10:00 PM - 11:00 PM,Thursday,Wayne County: Dearborn,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6488,2010,June,17,10:00 PM - 11:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6489,2010,July,17,4:00 PM - 5:00 PM,Saturday,Wayne County: Taylor,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,23,Female
+6490,2010,July,17,10:00 PM - 11:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6491,2010,August,17,3:00 AM - 4:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6492,2010,September,17,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,19,Female
+6493,2010,September,17,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,58,Female
+6494,2010,October,17,7:00 PM - 8:00 PM,Sunday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,55,Possible injury (C),Motor vehicle driver,61,Male
+6495,2010,November,17,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,58,Female
+6496,2010,December,17,11:00 PM - 12:00 midnight,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6497,2010,December,17,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6498,2010,January,18,1:00 AM - 2:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6499,2010,January,18,1:00 AM - 2:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6500,2010,February,18,9:00 AM - 10:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,52,Male
+6501,2010,February,18,10:00 PM - 11:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,28,Male
+6502,2010,April,18,4:00 AM - 5:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6503,2010,April,18,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6504,2010,April,18,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Other / unknown,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6505,2010,May,18,6:00 AM - 7:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6506,2010,June,18,3:00 PM - 4:00 PM,Friday,Wayne County: Highland Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,54,Male
+6507,2010,July,18,10:00 PM - 11:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,40,Male
+6508,2010,July,18,7:00 PM - 8:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,20,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6509,2010,August,18,2:00 PM - 3:00 PM,Wednesday,Wayne County: Romulus,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,80,Female
+6510,2010,August,18,9:00 PM - 10:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,30,Female
+6511,2010,August,18,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Male
+6512,2010,October,18,8:00 AM - 9:00 AM,Monday,Wayne County: Allen Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,45,Female
+6513,2010,October,18,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,18,Female
+6514,2010,October,18,11:00 AM - 12:00 noon,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,32,Female
+6515,2010,November,18,7:00 PM - 8:00 PM,Thursday,Wayne County: Inkster,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,25,Male
+6516,2010,November,18,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6517,2010,November,18,6:00 AM - 7:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6518,2010,December,18,11:00 PM - 12:00 midnight,Saturday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,47,Male
+6519,2010,January,19,10:00 PM - 11:00 PM,Tuesday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,28,Male
+6520,2010,January,19,4:00 PM - 5:00 PM,Tuesday,Wayne County: Canton Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,19,Male
+6521,2010,February,19,9:00 PM - 10:00 PM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,27,Male
+6522,2010,February,19,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,56,Male
+6523,2010,February,19,8:00 PM - 9:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,47,Male
+6524,2010,April,19,8:00 AM - 9:00 AM,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Male
+6525,2010,April,19,11:00 AM - 12:00 noon,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6526,2010,May,19,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,46,Female
+6527,2010,May,19,6:00 PM - 7:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,54,Male
+6528,2010,June,19,1:00 AM - 2:00 AM,Saturday,Wayne County: Inkster,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6529,2010,June,19,11:00 AM - 12:00 noon,Saturday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,No injury (O),Motor vehicle driver,51,Female
+6530,2010,June,19,11:00 AM - 12:00 noon,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,32,Female
+6531,2010,July,19,2:00 AM - 3:00 AM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,18,Male
+6532,2010,August,19,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,73,Female
+6533,2010,August,19,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Male
+6534,2010,August,19,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6535,2010,September,19,1:00 AM - 2:00 AM,Sunday,Wayne County: Taylor,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,28,Male
+6536,2010,October,19,10:00 PM - 11:00 PM,Tuesday,Wayne County: Taylor,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6537,2010,October,19,4:00 PM - 5:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,54,Male
+6538,2010,October,19,7:00 AM - 8:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,51,Male
+6539,2010,October,19,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6540,2010,November,19,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6541,2010,November,19,7:00 PM - 8:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6542,2010,November,19,7:00 AM - 8:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6543,2010,December,19,12:00 noon - 1:00 PM,Sunday,Wayne County: Taylor,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,15,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6544,2010,January,20,11:00 AM - 12:00 noon,Wednesday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,21,Male
+6545,2010,January,20,11:00 AM - 12:00 noon,Wednesday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,22,Male
+6546,2010,January,20,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,56,Male
+6547,2010,January,20,11:00 AM - 12:00 noon,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6548,2010,February,20,5:00 PM - 6:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,34,Male
+6549,2010,February,20,2:00 PM - 3:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6550,2010,March,20,4:00 PM - 5:00 PM,Saturday,Wayne County: Hamtramck,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6551,2010,April,20,12:00 noon - 1:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,73,Female
+6552,2010,April,20,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6553,2010,May,20,8:00 PM - 9:00 PM,Thursday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,24,Female
+6554,2010,May,20,8:00 PM - 9:00 PM,Thursday,Wayne County: Westland,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,41,Female
+6555,2010,May,20,12:00 noon - 1:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,22,Male
+6556,2010,May,20,3:00 PM - 4:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,42,Female
+6557,2010,June,20,8:00 PM - 9:00 PM,Sunday,Wayne County: Grosse Pointe Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,15,Suspected minor injury (B),Motor vehicle driver,44,Female
+6558,2010,June,20,12:00 midnight - 1:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,29,Male
+6559,2010,June,20,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6560,2010,June,20,5:00 PM - 6:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6561,2010,July,20,12:00 noon - 1:00 PM,Tuesday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,49,Female
+6562,2010,August,20,11:00 PM - 12:00 midnight,Friday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,34,Male
+6563,2010,August,20,1:00 PM - 2:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,58,Male
+6564,2010,August,20,11:00 PM - 12:00 midnight,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,33,Female
+6565,2010,August,20,9:00 PM - 10:00 PM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,36,Male
+6566,2010,August,20,1:00 AM - 2:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6567,2010,September,20,3:00 PM - 4:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,55,Female
+6568,2010,September,20,2:00 PM - 3:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,32,Female
+6569,2010,October,20,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,53,Male
+6570,2010,November,20,5:00 PM - 6:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,43,Male
+6571,2010,November,20,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6572,2010,November,20,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6573,2010,December,20,4:00 AM - 5:00 AM,Monday,Wayne County: Lincoln Park,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Fatal injury (K),Motor vehicle driver,69,Male
+6574,2010,December,20,1:00 AM - 2:00 AM,Monday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,23,Female
+6575,2010,February,21,1:00 PM - 2:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6576,2010,February,21,7:00 PM - 8:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,55,Male
+6577,2010,March,21,3:00 PM - 4:00 PM,Sunday,Wayne County: Livonia,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,18,Male
+6578,2010,April,21,9:00 PM - 10:00 PM,Wednesday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,45,Fatal injury (K),Motor vehicle driver,38,Male
+6579,2010,April,21,9:00 PM - 10:00 PM,Wednesday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,45,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6580,2010,April,21,10:00 AM - 11:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,22,Female
+6581,2010,May,21,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,23,Male
+6582,2010,June,21,2:00 PM - 3:00 PM,Monday,Wayne County: Harper Woods,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,42,Female
+6583,2010,June,21,8:00 PM - 9:00 PM,Monday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,19,Female
+6584,2010,June,21,8:00 PM - 9:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6585,2010,June,21,12:00 noon - 1:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,15,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6586,2010,July,21,10:00 PM - 11:00 PM,Wednesday,Wayne County: Taylor,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,51,Male
+6587,2010,July,21,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,47,Male
+6588,2010,August,21,5:00 PM - 6:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,15,Suspected minor injury (B),Motor vehicle driver,41,Female
+6589,2010,August,21,4:00 PM - 5:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,47,Female
+6590,2010,August,21,10:00 PM - 11:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,35,Female
+6591,2010,September,21,1:00 PM - 2:00 PM,Tuesday,Wayne County: Southgate,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6592,2010,September,21,8:00 AM - 9:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6593,2010,October,21,6:00 AM - 7:00 AM,Thursday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,24,Male
+6594,2010,October,21,6:00 AM - 7:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6595,2010,November,21,6:00 PM - 7:00 PM,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,70,Female
+6596,2010,December,21,5:00 PM - 6:00 PM,Tuesday,Wayne County: Lincoln Park,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,53,Male
+6597,2010,March,22,7:00 AM - 8:00 AM,Monday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,19,Female
+6598,2010,March,22,7:00 AM - 8:00 AM,Monday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,50,Male
+6599,2010,April,22,12:00 midnight - 1:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Fatal injury (K),Motor vehicle driver,24,Male
+6600,2010,May,22,3:00 PM - 4:00 PM,Saturday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,32,Male
+6601,2010,May,22,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,27,Female
+6602,2010,June,22,7:00 PM - 8:00 PM,Tuesday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,55,Female
+6603,2010,June,22,5:00 PM - 6:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,49,Female
+6604,2010,August,22,6:00 PM - 7:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,38,Male
+6605,2010,October,22,6:00 PM - 7:00 PM,Friday,Wayne County: Belleville,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,22,Female
+6606,2010,October,22,5:00 AM - 6:00 AM,Friday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,51,Male
+6607,2010,October,22,8:00 AM - 9:00 AM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Male
+6608,2010,November,22,10:00 AM - 11:00 AM,Monday,Wayne County: Highland Park,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6609,2010,December,22,6:00 AM - 7:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,61,Male
+6610,2010,December,22,6:00 AM - 7:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6611,2010,December,22,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6612,2010,January,23,9:00 PM - 10:00 PM,Saturday,Wayne County: Southgate,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6613,2010,January,23,7:00 PM - 8:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6614,2010,January,23,10:00 PM - 11:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6615,2010,January,23,3:00 AM - 4:00 AM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6616,2010,February,23,11:00 PM - 12:00 midnight,Tuesday,Wayne County: Hamtramck,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6617,2010,February,23,9:00 PM - 10:00 PM,Tuesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,21,Female
+6618,2010,February,23,9:00 PM - 10:00 PM,Tuesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,24,Male
+6619,2010,February,23,7:00 PM - 8:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,DOB invalid,Male
+6620,2010,March,23,3:00 PM - 4:00 PM,Tuesday,Wayne County: Westland,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,66,Female
+6621,2010,March,23,6:00 AM - 7:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6622,2010,March,23,8:00 PM - 9:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6623,2010,April,23,Unknown,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,46,Male
+6624,2010,April,23,11:00 PM - 12:00 midnight,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,47,Male
+6625,2010,May,23,7:00 PM - 8:00 PM,Sunday,Wayne County: Inkster,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6626,2010,June,23,2:00 AM - 3:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,52,Female
+6627,2010,June,23,4:00 PM - 5:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,33,Female
+6628,2010,July,23,11:00 PM - 12:00 midnight,Friday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,36,Female
+6629,2010,August,23,7:00 PM - 8:00 PM,Monday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,70,Suspected serious injury (A),Motor vehicle driver,18,Male
+6630,2010,August,23,9:00 PM - 10:00 PM,Monday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,20,Male
+6631,2010,September,23,8:00 PM - 9:00 PM,Thursday,Wayne County: Inkster,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,No injury (O),Motor vehicle driver,39,Female
+6632,2010,September,23,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,24,Male
+6633,2010,September,23,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,26,Female
+6634,2010,September,23,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,34,Female
+6635,2010,September,23,1:00 PM - 2:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,42,Female
+6636,2010,September,23,9:00 PM - 10:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,19,Male
+6637,2010,September,23,9:00 PM - 10:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,46,Male
+6638,2010,October,23,4:00 AM - 5:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6639,2010,November,23,9:00 PM - 10:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6640,2010,December,23,6:00 PM - 7:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,59,Male
+6641,2010,January,24,10:00 PM - 11:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6642,2010,March,24,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,44,Male
+6643,2010,March,24,9:00 PM - 10:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6644,2010,April,24,12:00 noon - 1:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,17,Male
+6645,2010,April,24,12:00 noon - 1:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6646,2010,April,24,2:00 AM - 3:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,No injury (O),Motor vehicle driver,21,Male
+6647,2010,April,24,10:00 AM - 11:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6648,2010,May,24,2:00 PM - 3:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,40,Female
+6649,2010,May,24,8:00 PM - 9:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Uncoded & errors,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,17,Female
+6650,2010,May,24,10:00 PM - 11:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6651,2010,June,24,3:00 PM - 4:00 PM,Thursday,Wayne County: Brownstown Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,68,Male
+6652,2010,June,24,4:00 AM - 5:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,24,Male
+6653,2010,July,24,8:00 PM - 9:00 PM,Saturday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,25,No injury (O),Motor vehicle driver,24,Female
+6654,2010,July,24,8:00 PM - 9:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,36,Male
+6655,2010,September,24,4:00 PM - 5:00 PM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,39,Male
+6656,2010,September,24,11:00 PM - 12:00 midnight,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6657,2010,November,24,2:00 PM - 3:00 PM,Wednesday,Wayne County: Brownstown Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,50,Suspected minor injury (B),Motor vehicle driver,40,Female
+6658,2010,November,24,5:00 PM - 6:00 PM,Wednesday,Wayne County: Allen Park,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,41,Male
+6659,2010,November,24,5:00 PM - 6:00 PM,Wednesday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,42,Female
+6660,2010,December,24,4:00 PM - 5:00 PM,Friday,Wayne County: Dearborn Heights,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,24,Male
+6661,2010,December,24,6:00 PM - 7:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,54,Female
+6662,2010,January,25,6:00 PM - 7:00 PM,Monday,Wayne County: Southgate,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,61,Male
+6663,2010,January,25,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,33,Male
+6664,2010,January,25,6:00 AM - 7:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,63,Female
+6665,2010,January,25,6:00 PM - 7:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,59,Female
+6666,2010,January,25,6:00 AM - 7:00 AM,Monday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6667,2010,February,25,7:00 AM - 8:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,40,Male
+6668,2010,February,25,11:00 AM - 12:00 noon,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6669,2010,March,25,8:00 AM - 9:00 AM,Thursday,Wayne County: Garden City,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6670,2010,April,25,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,32,Male
+6671,2010,May,25,12:00 noon - 1:00 PM,Tuesday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,No injury (O),Motor vehicle driver,63,Male
+6672,2010,May,25,10:00 AM - 11:00 AM,Tuesday,Wayne County: Garden City,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,20,Male
+6673,2010,May,25,6:00 PM - 7:00 PM,Tuesday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,74,Female
+6674,2010,May,25,6:00 PM - 7:00 PM,Tuesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,47,Male
+6675,2010,May,25,6:00 PM - 7:00 PM,Tuesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6676,2010,June,25,9:00 PM - 10:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,Uncoded & errors,Suspected serious injury (A),Motor vehicle driver,19,Male
+6677,2010,June,25,1:00 PM - 2:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6678,2010,June,25,1:00 AM - 2:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6679,2010,July,25,3:00 PM - 4:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,20,Male
+6680,2010,July,25,10:00 AM - 11:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,43,Female
+6681,2010,July,25,10:00 AM - 11:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6682,2010,September,25,9:00 AM - 10:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,42,Female
+6683,2010,September,25,9:00 PM - 10:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Female
+6684,2010,September,25,1:00 AM - 2:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6685,2010,September,25,5:00 AM - 6:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6686,2010,September,25,12:00 midnight - 1:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6687,2010,October,25,3:00 PM - 4:00 PM,Monday,Wayne County: Southgate,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,16,Female
+6688,2010,October,25,12:00 midnight - 1:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,20,Male
+6689,2010,October,25,12:00 noon - 1:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Other / unknown,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,48,Male
+6690,2010,November,25,1:00 AM - 2:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,57,Male
+6691,2010,December,25,2:00 PM - 3:00 PM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,55,Female
+6692,2010,January,26,6:00 PM - 7:00 PM,Tuesday,Wayne County: Plymouth Twp.,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,57,Male
+6693,2010,January,26,8:00 AM - 9:00 AM,Tuesday,Wayne County: Highland Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,59,Male
+6694,2010,January,26,6:00 PM - 7:00 PM,Tuesday,Wayne County: Westland,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,55,Male
+6695,2010,February,26,3:00 AM - 4:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,22,Male
+6696,2010,February,26,11:00 PM - 12:00 midnight,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,20,Female
+6697,2010,April,26,3:00 PM - 4:00 PM,Monday,Wayne County: Highland Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6698,2010,April,26,2:00 PM - 3:00 PM,Monday,Wayne County: Inkster,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,80,Male
+6699,2010,April,26,4:00 PM - 5:00 PM,Monday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,44,Male
+6700,2010,May,26,9:00 AM - 10:00 AM,Wednesday,Wayne County: Hamtramck,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,46,Male
+6701,2010,May,26,2:00 PM - 3:00 PM,Wednesday,Wayne County: Hamtramck,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Male
+6702,2010,May,26,11:00 PM - 12:00 midnight,Wednesday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,56,Male
+6703,2010,May,26,12:00 noon - 1:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,57,Male
+6704,2010,June,26,9:00 PM - 10:00 PM,Saturday,Wayne County: Wyandotte,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6705,2010,July,26,6:00 PM - 7:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6706,2010,October,26,4:00 AM - 5:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,20,Male
+6707,2010,October,26,6:00 PM - 7:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6708,2010,January,27,6:00 PM - 7:00 PM,Wednesday,Wayne County: Redford Twp.,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,40,Suspected serious injury (A),Motor vehicle driver,26,Male
+6709,2010,January,27,3:00 PM - 4:00 PM,Wednesday,Wayne County: Westland,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,28,Male
+6710,2010,January,27,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,20,Male
+6711,2010,January,27,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6712,2010,January,27,10:00 PM - 11:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6713,2010,January,27,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,Uncoded & errors,Fatal injury (K),Motor vehicle driver,68,Male
+6714,2010,January,27,7:00 AM - 8:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,32,Female
+6715,2010,March,27,3:00 PM - 4:00 PM,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,64,Male
+6716,2010,March,27,11:00 PM - 12:00 midnight,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,21,Female
+6717,2010,March,27,11:00 PM - 12:00 midnight,Saturday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,37,Female
+6718,2010,April,27,7:00 PM - 8:00 PM,Tuesday,Wayne County: Lincoln Park,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,51,Male
+6719,2010,May,27,2:00 PM - 3:00 PM,Thursday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,55,Male
+6720,2010,May,27,8:00 AM - 9:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,52,Male
+6721,2010,May,27,8:00 PM - 9:00 PM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,61,Female
+6722,2010,June,27,2:00 AM - 3:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,20,Female
+6723,2010,July,27,5:00 PM - 6:00 PM,Tuesday,Wayne County: Inkster,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Possible injury (C),Motor vehicle driver,25,Female
+6724,2010,August,27,3:00 PM - 4:00 PM,Friday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,57,Male
+6725,2010,September,27,2:00 PM - 3:00 PM,Monday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,65,Male
+6726,2010,October,27,5:00 PM - 6:00 PM,Wednesday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,29,Female
+6727,2010,October,27,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,27,Male
+6728,2010,October,27,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,32,Female
+6729,2010,October,27,1:00 PM - 2:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,20,Male
+6730,2010,November,27,10:00 AM - 11:00 AM,Saturday,Wayne County: Redford Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,35,Male
+6731,2010,December,27,1:00 PM - 2:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,66,Male
+6732,2010,January,28,3:00 AM - 4:00 AM,Thursday,Wayne County: Romulus,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,35,Male
+6733,2010,January,28,3:00 AM - 4:00 AM,Thursday,Wayne County: Romulus,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,46,Female
+6734,2010,January,28,3:00 AM - 4:00 AM,Thursday,Wayne County: Romulus,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,70,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6735,2010,January,28,12:00 midnight - 1:00 AM,Thursday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6736,2010,February,28,11:00 AM - 12:00 noon,Sunday,Wayne County: Wayne,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,No injury (O),Motor vehicle driver,50,Male
+6737,2010,April,28,1:00 PM - 2:00 PM,Wednesday,Wayne County: Canton Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,No injury (O),Motor vehicle driver,17,Female
+6738,2010,April,28,9:00 PM - 10:00 PM,Wednesday,Wayne County: Taylor,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,23,Male
+6739,2010,April,28,6:00 AM - 7:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dawn,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,68,Male
+6740,2010,April,28,7:00 PM - 8:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,19,Female
+6741,2010,May,28,6:00 PM - 7:00 PM,Friday,Wayne County: Highland Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,21,Male
+6742,2010,May,28,3:00 PM - 4:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,32,Female
+6743,2010,May,28,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,49,Female
+6744,2010,May,28,10:00 PM - 11:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6745,2010,May,28,6:00 PM - 7:00 PM,Friday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6746,2010,June,28,10:00 PM - 11:00 PM,Monday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Male
+6747,2010,July,28,8:00 PM - 9:00 PM,Wednesday,Wayne County: Dearborn Heights,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,40,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6748,2010,July,28,8:00 PM - 9:00 PM,Wednesday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,33,Male
+6749,2010,July,28,1:00 PM - 2:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,31,Female
+6750,2010,July,28,10:00 AM - 11:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,52,Male
+6751,2010,September,28,10:00 AM - 11:00 AM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,27,Female
+6752,2010,September,28,7:00 AM - 8:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dusk,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6753,2010,September,28,6:00 PM - 7:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dusk,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6754,2010,September,28,8:00 PM - 9:00 PM,Tuesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6755,2010,October,28,7:00 AM - 8:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Female
+6756,2010,November,28,12:00 midnight - 1:00 AM,Sunday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,24,Female
+6757,2010,December,28,7:00 AM - 8:00 AM,Tuesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Uncoded & errors,Uncoded & errors,Uncoded & errors,No injury (O),Motor vehicle driver,45,Female
+6758,2010,January,29,3:00 AM - 4:00 AM,Friday,Wayne County: Livonia,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6759,2010,January,29,10:00 AM - 11:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6760,2010,March,29,8:00 PM - 9:00 PM,Monday,Wayne County: Grosse Pointe Farms,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,44,Male
+6761,2010,March,29,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6762,2010,March,29,5:00 AM - 6:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,35,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6763,2010,April,29,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected serious injury (A),Motor vehicle driver,47,Male
+6764,2010,August,29,12:00 midnight - 1:00 AM,Sunday,Wayne County: Inkster,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6765,2010,August,29,12:00 noon - 1:00 PM,Sunday,Wayne County: Dearborn,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,37,Male
+6766,2010,September,29,2:00 PM - 3:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,55,Possible injury (C),Motor vehicle driver,62,Male
+6767,2010,September,29,8:00 AM - 9:00 AM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6768,2010,September,29,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dawn,Uncoded & errors,30,No injury (O),Motor vehicle driver,DOB invalid,Male
+6769,2010,September,29,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6770,2010,September,29,9:00 AM - 10:00 AM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Male
+6771,2010,October,29,8:00 AM - 9:00 AM,Friday,Wayne County: Lincoln Park,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,53,Female
+6772,2010,October,29,2:00 PM - 3:00 PM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Suspected minor injury (B),Motor vehicle driver,88,Female
+6773,2010,November,29,4:00 PM - 5:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dusk,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,35,Male
+6774,2010,December,29,8:00 PM - 9:00 PM,Wednesday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,45,Fatal injury (K),Motor vehicle driver,26,Male
+6775,2010,January,30,2:00 AM - 3:00 AM,Saturday,Wayne County: Melvindale,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,26,Female
+6776,2010,January,30,2:00 AM - 3:00 AM,Saturday,Wayne County: Melvindale,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6777,2010,January,30,1:00 AM - 2:00 AM,Saturday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,40,Male
+6778,2010,March,30,7:00 PM - 8:00 PM,Tuesday,Wayne County: Van Buren Twp.,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Suspected minor injury (B),Motor vehicle driver,26,Male
+6779,2010,March,30,1:00 PM - 2:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,46,Female
+6780,2010,March,30,3:00 PM - 4:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,Uncoded & errors,Possible injury (C),Motor vehicle driver,60,Female
+6781,2010,March,30,8:00 PM - 9:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Possible injury (C),Motor vehicle driver,63,Female
+6782,2010,April,30,3:00 PM - 4:00 PM,Friday,Wayne County: Northville Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,45,Suspected minor injury (B),Motor vehicle driver,69,Female
+6783,2010,May,30,11:00 PM - 12:00 midnight,Sunday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,30,Suspected minor injury (B),Motor vehicle driver,81,Male
+6784,2010,May,30,11:00 PM - 12:00 midnight,Sunday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,30,Suspected serious injury (A),Motor vehicle driver,DOB invalid,Uncoded & errors
+6785,2010,July,30,12:00 midnight - 1:00 AM,Friday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,45,Suspected serious injury (A),Motor vehicle driver,46,Male
+6786,2010,August,30,9:00 AM - 10:00 AM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6787,2010,August,30,5:00 PM - 6:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,No injury (O),Motor vehicle driver,DOB invalid,Uncoded & errors
+6788,2010,September,30,12:00 noon - 1:00 PM,Thursday,Wayne County: Canton Twp.,Not intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,45,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6789,2010,September,30,8:00 PM - 9:00 PM,Thursday,Wayne County: Lincoln Park,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Suspected serious injury (A),Motor vehicle driver,37,Female
+6790,2010,September,30,4:00 PM - 5:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,16,Female
+6791,2010,September,30,8:00 AM - 9:00 AM,Thursday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,74,Female
+6792,2010,November,30,11:00 AM - 12:00 noon,Tuesday,Wayne County: Hamtramck,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,61,Male
+6793,2010,November,30,2:00 PM - 3:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,30,Male
+6794,2010,November,30,6:00 PM - 7:00 PM,Tuesday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,32,Male
+6795,2010,December,30,7:00 PM - 8:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,28,Female
+6796,2010,December,30,7:00 PM - 8:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,46,Male
+6797,2010,December,30,7:00 PM - 8:00 PM,Thursday,Wayne County: Detroit,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,55,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6798,2010,December,30,11:00 PM - 12:00 midnight,Thursday,Wayne County: Detroit,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Suspected minor injury (B),Motor vehicle driver,DOB invalid,Uncoded & errors
+6799,2010,January,31,7:00 PM - 8:00 PM,Sunday,Wayne County: Allen Park,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,90,Male
+6800,2010,March,31,3:00 PM - 4:00 PM,Wednesday,Wayne County: Redford Twp.,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,25,Fatal injury (K),Motor vehicle driver,19,Male
+6801,2010,March,31,3:00 PM - 4:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,30,No injury (O),Motor vehicle driver,42,Male
+6802,2010,March,31,8:00 PM - 9:00 PM,Wednesday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark lighted,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6803,2010,May,31,2:00 PM - 3:00 PM,Monday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,25,Possible injury (C),Motor vehicle driver,DOB invalid,Female
+6804,2010,July,31,2:00 AM - 3:00 AM,Saturday,Wayne County: Detroit,Intersection crash,Hit-and-run,Dark unlighted,Uncoded & errors,25,Fatal injury (K),Motor vehicle driver,DOB invalid,Uncoded & errors
+6805,2010,August,31,2:00 PM - 3:00 PM,Tuesday,Wayne County: Livonia,Intersection crash,Not hit-and-run,Daylight,Uncoded & errors,40,Suspected minor injury (B),Motor vehicle driver,22,Female
+6806,2010,October,31,8:00 PM - 9:00 PM,Sunday,Wayne County: Detroit,Not intersection crash,Hit-and-run,Daylight,Uncoded & errors,15,Possible injury (C),Motor vehicle driver,DOB invalid,Uncoded & errors
+6807,2010,December,31,1:00 PM - 2:00 PM,Friday,Wayne County: Wayne,Intersection crash,Hit-and-run,Daylight,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,DOB invalid,Male
+6808,2010,December,31,10:00 PM - 11:00 PM,Friday,Wayne County: Dearborn,Not intersection crash,Not hit-and-run,Dark lighted,Uncoded & errors,35,Possible injury (C),Motor vehicle driver,55,Male
